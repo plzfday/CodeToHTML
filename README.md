@@ -7,7 +7,8 @@
 
 ## Notice
 
-이 프로그램은 제가 *[SyntaxHighlighting](http://alexgorbatchev.com/SyntaxHighlighter/)* 프로그램을 위해 만든 프로그램이고, Blogger에 최적화 되어 있을 것 같습니다. 다른 플랫폼에서는 사용하지 않아서... 확인해주시면 감사하겠습니다.
+이 프로그램은 제가 *[SyntaxHighlighting](http://alexgorbatchev.com/SyntaxHighlighter/)* 프로그램을 위해 만든 프로그램이고, Blogger에 최적화 되어 있을 것 같습니다. 다른 플랫폼에서는 사용하지 않아서... 확인해주시면 감사하겠습니다.  
+또한 C/C++를 기준으로 생각하고 코딩해서 나중에 확장성을 고려한다면 업데이트가 필요할 것 같습니다.
 
 ## How to use?
 
